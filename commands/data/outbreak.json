@@ -1,0 +1,11 @@
+{
+  "infected": {
+    "123456789012345678": {
+      "stage": 2,
+      "symptoms": ["coughing", "nausea"]
+    }
+  },
+  "vaccinated": [],
+  "isolated": [],
+  "mutation_level": 1
+}
